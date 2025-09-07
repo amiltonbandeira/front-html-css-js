@@ -1,0 +1,23 @@
+@charset "UTF-8";
+*{
+    color:white;
+}
+body{
+    background-color: gray;
+}
+header nav {
+    width: 200px;
+    display:inline-block;
+    border: solid 1px red;
+    border-radius: 10px;
+    background-color: rgb(52, 52, 52);
+    color:gray;
+    font-weight: bold;
+    left:100px;
+}
+#main_top_text{
+    color: rgba(221, 210, 171, 0.634);
+}
+footer p{
+    text-align: center;
+}

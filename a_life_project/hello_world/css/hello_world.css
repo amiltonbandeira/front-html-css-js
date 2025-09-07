@@ -1,0 +1,9 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(116, 116, 116);
+}
+h1{
+    color: darkblue;
+    text-shadow: 4px 4px 8px black;
+    font-weight:bold;
+}
